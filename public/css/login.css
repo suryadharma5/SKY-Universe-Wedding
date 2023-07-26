@@ -1,0 +1,11 @@
+#aming{
+    display: none;
+}
+
+#kiri{
+    background-image: url('/img/bg-image.jpg')
+}
+
+#gambar{
+    max-height: 100px;
+}
